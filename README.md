@@ -1,6 +1,6 @@
 # Github::Button
 
-TODO: Write a gem description
+Github button CSS style. If your want use icons, use Awesome font form http://fortawesome.github.com/Font-Awesome/
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add this line to your application.css
+
+    *= require 'github-button'
 
 ## Contributing
 
