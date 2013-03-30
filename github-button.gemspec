@@ -6,11 +6,11 @@ require 'github/button/version'
 Gem::Specification.new do |spec|
   spec.name          = "github-button"
   spec.version       = Github::Button::VERSION
-  spec.authors       = ["eddiefisher"]
+  spec.authors       = ["Eddie Fisher"]
   spec.email         = ["eddifisher@bk.ru"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Github button css style}
+  spec.summary       = %q{Github button css style}
+  spec.homepage      = "https://github.com/eddiefisher/github-button"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
