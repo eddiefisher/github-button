@@ -3,6 +3,8 @@
 Github button CSS style.
 If your want use icons, use font Awesome form http://fortawesome.github.com/Font-Awesome/
 
+Original CSS file http://github.com/necolas/css3-github-buttons
+
 ## Installation
 
 Add this line to your application's Gemfile:
