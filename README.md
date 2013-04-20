@@ -11,10 +11,10 @@ original example: http://nicolasgallagher.com/lab/css3-github-buttons/
 
 Add this line to your application's Gemfile:
 
-    gem 'github-button'
-    
-    # add font Awesome
+    # add first font Awesome if you need it
     gem 'font-awesome-rails'
+
+    gem 'github-button'
 
 And then execute:
 
@@ -29,6 +29,10 @@ Or install it yourself as:
 Add this line to your application.css
 
     *= require 'github-button'
+    
+for application.css.scss
+    
+    @import 'github-button';
 
 ## Contributing
 
